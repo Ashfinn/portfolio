@@ -1,5 +1,4 @@
 import React from "react";
-import { XIcon } from "lucide-react";
 import { BsGithub, BsLinkedin, BsTwitterX } from "react-icons/bs";
 
 export default function Hero() {
