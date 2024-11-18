@@ -1,38 +1,37 @@
 import React from "react";
 import Image from "next/image";
-import {
-    Award,
-    Book,
-    Folders,
-    GraduationCap,
-  } from "lucide-react";
 import Link from "next/link";
+import { FaFolder, FaGraduationCap, FaAward, FaBook } from 'react-icons/fa';
 
 export default function Nav() {
     return (
-        <div className="flex flex-row justify-between m-5">
-            <div className="self-start">
-                <Image src="/1.png" alt="logo" width={50} height={50} />
-            </div>        
+        <div className="navbar bg-base-100">
+            <div className="flex-1">
+                <a className="btn btn-ghost" href="#">
+                    <Image src="/logo_light.png" alt="logo" width={50} height={50} />
+                </a>
+            </div>
 
-            <div className="flex flex-row space-x-4">
-                <div className="flex">
-                    <Folders />
-                    <Link href="#proj">Projects</Link>
-                </div>
-                <div className="flex">
-                    <GraduationCap />
-                    <Link href="#edu">Education</Link>
-                </div>
-                <div className="flex">
-                    <Award />
-                    <Link href="#cert">Certifications</Link>
-                </div>
-                <div className="flex">
-                    <Book />
-                    <Link href="#skills">Skills</Link>
-                </div>
+            <div className="flex-none menu menu-horizontal px-1">
+                <ul className="menu menu-horizontal px-1">
+                    <li>
+                        <FaFolder className="mr-2" />
+                        <Link href="#projects">Projects</Link>
+                    </li>
+                    <li>
+                        <FaGraduationCap className="mr-2" />
+                        <Link href="#education">Education</Link>
+                    </li>
+                    <li>
+                        <FaAward className="mr-2" />
+                        <Link href="#certification">Certifications</Link>
+                    </li>
+                    <li>
+                        <FaBook className="mr-2" />
+                        <Link href="#skills">Skills</Link>
+                    </li>
+                </ul>
             </div>
         </div>
-    )
+    );
 }
