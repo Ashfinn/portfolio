@@ -9,7 +9,7 @@ export default function Hero() {
             <h2 className="text-xl">Doing research in Machine Learning, and contributing to open source and creating content about various math and tech topics</h2>
 
             <div className="flex space-x-2 py-8">
-                <a href="">
+                <a href=" ">
                     <BsGithub />
                 </a>
                 <a href="">

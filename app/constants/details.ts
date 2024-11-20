@@ -1,16 +1,12 @@
 export const skills = [
     {url: "./firebase.svg", title: "Firebase"},
     {url: "./react.svg", title: "React"},
-    {url: "./nextjs.svg", title: "Next.js"},
-    {url: "./tailwindcss.svg", title: "Tailwind CSS"},
+    {url: "./next.svg", title: "Next.js"},
+    {url: "./tailwind.svg", title: "Tailwind CSS"},
     {url: "./typescript.svg", title: "TypeScript"},
     {url: "./python.svg", title: "Python"},
-    {url: "./jupyter.svg", title: "Jupyter"},
     {url: "./numpy.svg", title: "NumPy"},
     {url: "./pandas.svg", title: "Pandas"},
     {url: "./matplotlib.svg", title: "Matplotlib"},
     {url: "./scikit-learn.svg", title: "Scikit-learn"},
-    {url: "./latex.svg", title: "LaTeX"},
-    {url: "./git.svg", title: "Git"},
-    {url: "./linux.svg", title: "Linux"},
 ]
