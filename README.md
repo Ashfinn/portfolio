@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- Improved compatibility of back to top link -->
+<a id="readme-top"></a>
 
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Ashfinn/ashfinn.github.io">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Ashfin's Portfolio</h3>
+
+  <p align="center">
+    Welcome to my personal portfolio! This is where I showcase my skills, projects, and achievements.
+    <br />
+    <a href="https://github.com/Ashfinn/ashfinn.github.io"><strong>Explore the website »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Ashfinn/ashfinn.github.io">View Portfolio</a>
+    ·
+    <a href="https://github.com/Ashfinn/ashfinn.github.io/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/Ashfinn/ashfinn.github.io/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Portfolio Screen Shot][product-screenshot]](https://example.com)
+
+This Portfolio is a collection of projects and work I've done across various disciplines, including web development, machine learning, and software engineering. It's a live demonstration of my skills, experience, and approach to problem-solving.
+
+Here's why this ashfinn.github.io matters:
+* Showcases real-world projects that solve problems and demonstrate my expertise.
+* Reflects my journey as a developer, highlighting my growth over time.
+* Allows potential collaborators and employers to explore my work easily.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+This ashfinn.github.io was built with modern frameworks and tools:
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Tailwind CSS][Tailwindcss.com]][Tailwind-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
-First, run the development server:
+Visit the Aceternity website to get their free SideFolio Template.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- CONTACT -->
+## Contact
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Ashfin - [@Ashfinn](https://twitter.com/obidur__rahman) - obidur.shawal@gmail.com
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Project Link: [https://github.com/Ashfinn/ashfinn.github.io](https://github.com/Ashfinn/ashfinn.github.io)
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn more about Next.js, take a look at the following resources:
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Font Awesome](https://fontawesome.com)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [GitHub Pages](https://pages.github.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/Ashfinn/ashfinn.github.io.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ashfinn/ashfinn.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ashfinn/ashfinn.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/Ashfinn/ashfinn.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ashfinn/ashfinn.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/Ashfinn/ashfinn.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ashfinn/ashfinn.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/Ashfinn/ashfinn.github.io/issues
+[license-shield]: https://img.shields.io/github/license/Ashfinn/ashfinn.github.io.svg?style=for-the-badge
+[license-url]: https://github.com/Ashfinn/ashfinn.github.io/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/Ashfinn
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Tailwindcss.com]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+---
